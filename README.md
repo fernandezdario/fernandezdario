@@ -7,7 +7,7 @@ I'm a Big Data Anylicts student who is passionate about writing code, statistics
 - 🔭 I’m currently studying Big Data Anylicts at EDEM University.
 - 📚 I’m currently learning data processing using Python, Apache Spark, Docker and Kafka.
 - 👯 I am looking for a data engineering internship. 
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/darío-fernández-fernández) [Gmail](mailto:fernandezdario17@gmail.com)
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/darío-fernández-fernández) / [Gmail](mailto:fernandezdario17@gmail.com)
 
 ### Some stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fernandezdario&show_icons=true&theme=tokyonight)
